@@ -1,0 +1,5 @@
+{
+  "java.project.referencedLibraries": [
+    ".vscode/jsoup-1.23.2.jar"
+  ]
+}
